@@ -40,11 +40,11 @@ public class Main {
         System.out.println(a<=b);
         System.out.println(a==b);
         System.out.println(a!=b);*/
-         int age = 17;
+         /*int age = 17;
          if (age >= 18) {System.out.println("You are an old person"); }
          else {System.out.println("You are a child");}
-         int weekDay = 10;
-         (weekDay==1);
+         int weekDay = 10;*/
+         /*(weekDay==1);
         {System.out.println("Monday");}
         switch (weekDay) {case 1:
             System.out.println("Monday");
@@ -71,8 +71,6 @@ public class Main {
                 System.out.println("No such day");
         }
 
-
-
-
-                   }
+          */
+    }
 }
