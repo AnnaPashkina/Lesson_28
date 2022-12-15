@@ -3,7 +3,7 @@ public class Homework_1 {
             /*{int currentYear = 2022;
             int friendYear = 1991;
             System.out.println(currentYear-friendYear);*/
-        int number = 465789555;
+        int number = 145648;
         int lastDigit = number % 10;
         System.out.println(" Last Digit is " + lastDigit);
         /*int age = 27;
